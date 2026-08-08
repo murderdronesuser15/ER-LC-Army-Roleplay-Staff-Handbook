@@ -348,3 +348,14 @@ Communication between staff members is required.
   - Add a staff contact & escalation list, report template, and an incident log file to the repo.
 
 If you'd like me to make any of those changes (or others), tell me which and I'll make a new commit with the updates.
+
+---
+
+## Summary of what I'll do next
+
+- Insert the full sections you provided (commands, punishments, staff expectations, roleplay details) into the handbook (already added).
+- Clean up typos, standardize headings, and improve formatting for readability.
+- Add optional resources on request: Table of Contents, incident report template, punishment/incident log, :pm templates, staff contact & escalation flow, reporting & evidence guidelines.
+- Split long procedural content into separate files if you prefer (e.g., ROLEPLAY_OPERATIONS.md, PUNISHMENT_GUIDELINES.md) for easier navigation.
+- Provide commit(s) with clear messages and can open a PR instead if you want review before merging.
+
