@@ -18,8 +18,6 @@ Inside this handbook, you will find information regarding:
 
 All staff members are expected to read and understand this handbook before actively moderating.
 
----
-
 ## Staff Expectations
 
 As a member of the ARP Staff Team, you represent the community whenever you are on duty. Your actions, communication, and decisions reflect the reputation of the entire staff team.
@@ -34,8 +32,6 @@ Staff members are expected to:
 - Communicate properly with players and other staff members
 
 Staff powers are a responsibility, not a privilege to be used for personal reasons.
-
----
 
 ## Command Usage Guidelines
 
@@ -54,8 +50,6 @@ Most commands can be executed by entering approximately the first three letters 
 If you accidentally use a command on the wrong player, you are expected to correct the situation immediately.
 
 Never use commands unnecessarily or for personal benefit.
-
----
 
 ## Punishment Guidelines
 
@@ -159,8 +153,6 @@ Extreme offenses are serious violations that can severely impact the community.
 - Joining Before Kick Timer Ends
   - Punishment: Ban
 
----
-
 ## Punishment Documentation
 
 Before issuing any punishment, staff members must inform the player of what rule they violated and what punishment they are receiving.
@@ -176,8 +168,6 @@ Example:
 Players should always understand why action was taken against them.
 
 If a punishment is issued without proper explanation, it may be considered invalid unless it involves an extreme offense.
-
----
 
 ## Staff Duty Requirements
 
@@ -195,8 +185,6 @@ To begin your staff shift:
 6. Navigate to: Dashboard → Army Roleplay → Moderator Panel
 7. Select: Start Shift
 
----
-
 ## Shift Abuse Policy
 
 Staff members are expected to actively moderate while on shift.
@@ -212,8 +200,6 @@ Examples include:
 
 Remember: being on duty means you are representing ARP.
 Maintain professionalism, proper grammar, and respectful communication.
-
----
 
 ## Roleplay Operations
 
@@ -337,8 +323,6 @@ Once the President loses all lives:
 
 Communication between staff members is required.
 
----
-
 ## Additional Notes (added by Copilot)
 
 - I added the full content you provided and placed the Presidential roleplay details under Roleplay Operations with subheadings for clarity.
@@ -349,8 +333,6 @@ Communication between staff members is required.
 
 If you'd like me to make any of those changes (or others), tell me which and I'll make a new commit with the updates.
 
----
-
 ## Summary of what I'll do next
 
 - Insert the full sections you provided (commands, punishments, staff expectations, roleplay details) into the handbook (already added).
@@ -358,4 +340,3 @@ If you'd like me to make any of those changes (or others), tell me which and I'l
 - Add optional resources on request: Table of Contents, incident report template, punishment/incident log, :pm templates, staff contact & escalation flow, reporting & evidence guidelines.
 - Split long procedural content into separate files if you prefer (e.g., ROLEPLAY_OPERATIONS.md, PUNISHMENT_GUIDELINES.md) for easier navigation.
 - Provide commit(s) with clear messages and can open a PR instead if you want review before merging.
-
