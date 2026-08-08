@@ -12,7 +12,7 @@ Inside this handbook, you will find information regarding:
 - Punishment procedures
 - Staff expectations
 - Roleplay standards
-- Presidential roleplay operations
+- Roleplay operations
 - Convoy procedures
 - Staff professionalism
 
