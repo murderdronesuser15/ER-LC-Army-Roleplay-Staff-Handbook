@@ -323,6 +323,53 @@ Once the President loses all lives:
 
 Communication between staff members is required.
 
+### Army Training (Roleplay)
+
+This section covers rules and procedures for hosting and participating in Army Training (roleplay) sessions.
+
+#### Attendance & Equipment
+
+- All participants must join the Police Department before training begins.
+- Participants must equip the "Recruit Army PT Uniform" with no accessories that look unrealistic.
+- Participants must be armed with a firearm (no pistols allowed).
+
+#### Staging Area & Transport
+
+- Participants may not spawn any vehicles.
+- Participants must wait at the main entrance (the entrance that leads to the side near the meeting room).
+- Participants must neatly line up and must not cut in line at the side entrance while transport arrives.
+- During the bus/transport ride to HRP, participants must remain seated and not jump out of their seats.
+- Only staff members should be inside the transport convoy; no civilians or non-staff participants are allowed inside the convoy vehicle(s).
+
+#### Conduct During PT
+
+- PT must always be on during training sessions.
+- Participants must follow staff instruction at all times.
+- Do not teleport to random staff members during the training session or you risk receiving a strike.
+- Follow what you are told to do or face a strike.
+
+#### Moderator Enforcement
+
+Moderators must enforce training rules. Actions and recommended responses:
+
+- Spawning cars during training: Jail or kick depending on severity.
+- Any above offense during training: Punish depending on severity (warning → kick → jail → ban as appropriate).
+- Cutting in line or being disrespectful to staff/members: Warning, and escalate if repeated.
+
+#### Hosting Permissions & Restrictions
+
+- You may only host an army training session if you have been explicitly authorized to do so.
+
+#### Teleportation & Strike Policy
+
+- Do not teleport to random staff members or other players during training.
+- Failure to follow staff instructions or teleporting without permission may result in a strike.
+
+#### Strike System
+
+- 1st strike: Warn
+
+
 ## Additional Notes (added by Copilot)
 
 - I added the full content you provided and placed the Presidential roleplay details under Roleplay Operations with subheadings for clarity.
